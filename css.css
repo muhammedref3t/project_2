@@ -1,0 +1,177 @@
+body
+{
+    background: white;
+    font-family: inherit;
+    margin: 0px;
+    background: #E1E7EF;
+    height: 700px
+}
+.facebook
+{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    float: left;
+    padding:20px;
+    margin-bottom: 20px;
+    margin-left:150px;
+    cursor: pointer;
+    font-family: helvetica
+}
+   
+
+.lol
+{
+   
+   float: right;
+   margin: 30px 200px 0px 0px;
+   margin-bottom: 0px
+   
+}
+.head
+{
+    height: 90px;
+    background:#385898;
+}
+.username
+{
+    padding: 4px;
+    margin-right: 14px
+}
+.password
+{
+    padding: 4px;
+    margin-right: 17px
+}
+.login
+{
+    
+    cursor: pointer;
+     padding: 4px;
+     background: #3E6ABC;
+     border: none;
+     color: white;
+     font-weight: bold;
+     border: solid #000000     0.4px;
+}
+.center
+{
+    clear: both;
+    float: right;
+    margin-right: 200px;
+}
+.create
+{
+    font-weight: bold;
+    font-family: "Freight Sans Bold", Helvetica, Arial, sans-serif;  ;
+    font-size: 35.4px;
+    width: 364px;
+    margin-bottom: 40px;
+    color: #333333
+}
+.firstname
+{
+    padding: 13px;   
+    border: solid #bdc7d8 0.6px;
+    border-radius: 5px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+.lastname
+{
+    padding: 13px;
+    border: solid #bdc7d8 0.6px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-bottom: 12px ;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+.email
+{
+    padding: 13px;
+    border: solid #bdc7d8 0.6px;
+    border-radius: 5px;
+    width: 437px ;
+    margin-bottom: 12px  ;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+.newpassword
+{
+    padding: 13px;
+    border: solid #bdc7d8 0.6px;
+    border-radius: 5px;
+    width: 437px;
+    margin-bottom: 20px ;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+.labelbirthday
+{
+    font-size: 16px;
+    color: #90949c;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+}
+select
+{
+    background: white;
+    padding: 6px;
+    margin-top: 8px;
+    margin-bottom: 12px
+}
+.tips
+{
+    color: #777777;
+    font-size: 12px;
+    width: 150px;
+    
+}
+.gender
+{
+   font-size: 16px;
+    color: #90949c;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.radio
+{
+    margin-top: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px
+}
+.male
+{
+    margin-right: 15px
+}
+.female
+{
+    margin-right: 15px
+}
+.firstlogin
+{
+    margin-top: 20px;
+    font-family: "Freight Sans Bold", Helvetica, Arial, sans-serif;
+    background: #5B965B;
+    border: solid #5B965B 0.4px;
+    width: 190px;
+    padding: 11px;
+    color: white;
+    font-size: 19px;
+    border-radius: 5.2px
+}
+.forget
+{
+   margin-left: 200px;
+   margin-top: 7px;
+   font-family: Helvetica, Arial, sans-serif;
+   color: #9cb4d8;
+   cursor: pointer;
+   font-size: 13px
+}
+.forget:hover
+{
+ text-decoration: underline;
+}
+
